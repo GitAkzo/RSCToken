@@ -53,23 +53,26 @@
         ![4.3 RSC Token - Importação de Tokens](./assets/4.3%20RSC%20Token%20-%20Importação%20de%20Tokens.png)
         
         ![4.4 RSC Token - Importação de Tokens](./assets/4.4%20RSC%20Token%20-%20Importação%20de%20Tokens.png)
+       
         ![4.5 RSC Token - Importação de Tokens](./assets/4.5%20RSC%20Token%20-%20Importação%20de%20Tokens.png)
 
         c. Por fim, os tokens devem aparecer:
         
         ![5 RSC Token - Execução Bem Sucedida](./assets/5%20RSC%20Token%20-%20Execução%20Bem%20Sucedida.png)
 
-    7. Realizei a transferência de 10.000 tokens para uma [carteira secundária](https://sepolia.etherscan.io/address/0xa17c0C28B981AcBa2B8f8a9d4A64d4f96861eB70), você pode conferir pelo [hash da transação](https://sepolia.etherscan.io/tx/0x58dc28e81738bd762a677ce91e2f6d79d5a6ccd98323547e01728c8eaeef5926) no site Etherscan.
+    8. Realizei a transferência de 10.000 tokens para uma [carteira secundária](https://sepolia.etherscan.io/address/0xa17c0C28B981AcBa2B8f8a9d4A64d4f96861eB70), você pode conferir pelo [hash da transação](https://sepolia.etherscan.io/tx/0x58dc28e81738bd762a677ce91e2f6d79d5a6ccd98323547e01728c8eaeef5926) no site Etherscan.
 
         ![6 RSC Token - Transferência do Token Entre Carteiras](./assets/6%20RSC%20Token%20-%20Transferência%20do%20Token%20Entre%20Carteiras.png)
 
-    8. Veja as carteiras:
+    9. Veja as carteiras:
 
         a. Carteira principal e originária dos tokens:
-            ![7.1 RSC Token - Tokens na Carteira 1](./assets/7.1%20RSC%20Token%20-%20Tokens%20na%20Carteira%201.png)
+
+       ![7.1 RSC Token - Tokens na Carteira 1](./assets/7.1%20RSC%20Token%20-%20Tokens%20na%20Carteira%201.png)
 
         b. Carteira secundária
-            ![7.2 RSC Token - Tokens na Carteira 2](./assets/7.2%20RSC%20Token%20-%20Tokens%20na%20Carteira%202.png)
+
+       ![7.2 RSC Token - Tokens na Carteira 2](./assets/7.2%20RSC%20Token%20-%20Tokens%20na%20Carteira%202.png)
 
 
 
